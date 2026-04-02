@@ -1,4 +1,3 @@
-// https://www.hackerrank.com/challenges/quicksort1/problem?isFullScreen=true
 #include<bits/stdc++.h>
 using namespace std;
 vector<int> countingSort(vector<int> arr) {
